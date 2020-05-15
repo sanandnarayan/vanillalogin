@@ -1,2 +1,0 @@
-# vanillalogin
-Created with CodeSandbox
